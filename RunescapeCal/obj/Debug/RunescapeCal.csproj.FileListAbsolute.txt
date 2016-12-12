@@ -16,3 +16,12 @@ C:\Users\helteanden\Documents\Visual Studio 2015\Projects\RunescapeCal\Runescape
 C:\Users\helteanden\Documents\Visual Studio 2015\Projects\RunescapeCal\RunescapeCal\obj\Debug\RunescapeCal.Form1.resources
 C:\Users\helteanden\Documents\Visual Studio 2015\Projects\RunescapeCal\RunescapeCal\obj\Debug\RunescapeCal.Properties.Resources.resources
 C:\Users\helteanden\Documents\Visual Studio 2015\Projects\RunescapeCal\RunescapeCal\obj\Debug\RunescapeCal.csproj.GenerateResource.Cache
+C:\Users\STU\Source\Repos\RS3-Calculator\RunescapeCal\bin\Debug\RunescapeCal.exe.config
+C:\Users\STU\Source\Repos\RS3-Calculator\RunescapeCal\obj\Debug\RunescapeCal.exe
+C:\Users\STU\Source\Repos\RS3-Calculator\RunescapeCal\obj\Debug\RunescapeCal.pdb
+C:\Users\STU\Source\Repos\RS3-Calculator\RunescapeCal\bin\Debug\RunescapeCal.exe
+C:\Users\STU\Source\Repos\RS3-Calculator\RunescapeCal\bin\Debug\RunescapeCal.pdb
+C:\Users\STU\Source\Repos\RS3-Calculator\RunescapeCal\obj\Debug\RunescapeCal.csprojResolveAssemblyReference.cache
+C:\Users\STU\Source\Repos\RS3-Calculator\RunescapeCal\obj\Debug\RunescapeCal.Form1.resources
+C:\Users\STU\Source\Repos\RS3-Calculator\RunescapeCal\obj\Debug\RunescapeCal.Properties.Resources.resources
+C:\Users\STU\Source\Repos\RS3-Calculator\RunescapeCal\obj\Debug\RunescapeCal.csproj.GenerateResource.Cache
